@@ -1,8 +1,0 @@
-2020-10-23T16:03:43+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/forge/bmotiontest.online/wp-includes/class-wp-image-editor.php on line 489
-
-2020-10-23T16:03:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/forge/bmotiontest.online/wp-includes/class-wp-image-editor.php on line 489
-
-2020-10-23T16:04:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /home/forge/bmotiontest.online/wp-includes/class-wp-image-editor.php on line 489
-
-2020-10-23T16:10:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en /home/forge/bmotiontest.online/wp-includes/class-wp-image-editor.php en la línea 489
-
